@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Interactive X-Ray Lab",
+  "description": "An interactive simulation to study the properties of the continuous X-ray spectrum (Bremsstrahlung) and calculate Planck's constant based on the cutoff wavelength.",
+  "requestFramePermissions": []
+}
